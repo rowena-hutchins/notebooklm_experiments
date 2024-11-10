@@ -1,7 +1,7 @@
 # NotebookLM Experiment Log
 
-## 1. Document Summarization
-- **Objective**: To summarize lecture materials and other documents effectively, enhancing student engagement.
+## 1. Document Summarisation
+- **Objective**: To summarise lecture materials and other documents effectively, enhancing student engagement.
 - **Example Notebook**: **BUS5001 AI in the Cloud Lecture Summary**
   - **Feature demonstration**:
     - *Document*: "Lecture 09 AI-in-the-Cloud.pdf"
@@ -33,13 +33,13 @@
     - Analysis: Includes a detailed line-by-line analysis of sentence structure and word choice.
   - **Feedback**: While rhythm is well-preserved, the overview is lengthy for the material length, and a concise option may be preferable.
  
-## 4. Note Taking and Organization
+## 4. Note Taking and Organisation
 
-**Objective**: Streamline note-taking, organization, and study preparation for university students.
+**Objective**: Streamline note-taking, organisation, and study preparation for university students.
 
 ### Experiment Outlines
 
-- **Summarize and Question Lecture Notes**
+- **Summarise and Question Lecture Notes**
   - **Steps**:
     1. Input lecture notes into NotebookLM.
     2. Use NotebookLM to generate a summary.
@@ -52,28 +52,28 @@
     2. Integrate these notes with the original lecture notes to form a comprehensive document.
   - **Expected Outcome**: Cohesive notes that blend original lecture materials with additional insights.
 
-- **Organize Notes by Subject or Topic**
+- **Organise Notes by Subject or Topic**
   - **Steps**:
     1. Use NotebookLM's tagging and search features to label notes by topic or subject.
     2. Test search efficiency for quick topic-based retrieval.
-  - **Expected Outcome**: An organized note system with easily searchable tags, making study sessions more efficient.
+  - **Expected Outcome**: An organised note system with easily searchable tags, making study sessions more efficient.
 
 - **Generate Study Guides**
   - **Steps**:
     1. Use NotebookLM to identify key points, definitions, and summaries in notes.
-    2. Create a summarized study guide with main points, definitions, and study questions.
+    2. Create a summarised study guide with main points, definitions, and study questions.
   - **Expected Outcome**: Ready-to-use study guides for exam preparation.
 
 - **Automate To-Do Lists and Deadlines**
   - **Steps**:
     1. Set up automated to-do lists with deadlines for upcoming lectures, assignments, and exams.
     2. Track updates and ensure reminders align with class schedules.
-  - **Expected Outcome**: Organized deadlines and reminders, improving time management.
+  - **Expected Outcome**: Organised deadlines and reminders, improving time management.
 
 - **Manage References and Citations**
   - **Steps**:
     1. Insert references and citations into NotebookLM.
-    2. Use the AI to track and organize these, checking citation consistency.
+    2. Use the AI to track and organise these, checking citation consistency.
   - **Expected Outcome**: A reliable reference manager within the notebook.
 
 - **Collate Information Across Courses**
@@ -92,13 +92,13 @@
   - **Steps**:
     1. Set up NotebookLM as a shared workspace.
     2. Test real-time co-editing and annotation among group members.
-  - **Expected Outcome**: A synchronized and collaborative environment where everyone has access to up-to-date information.
+  - **Expected Outcome**: A synchronised and collaborative environment where everyone has access to up-to-date information.
 
-- **Upload and Summarize Research Papers and Datasets**
+- **Upload and Summarise Research Papers and Datasets**
   - **Steps**:
     1. Upload research papers, textbooks, and datasets into NotebookLM.
     2. Use the AI to generate summaries and save these as notes for future reference.
-  - **Expected Outcome**: Summarized key points from lengthy documents, saving time for group members.
+  - **Expected Outcome**: Summarised key points from lengthy documents, saving time for group members.
 
 - **Generate Outlines for Research Projects**
   - **Steps**:
@@ -116,7 +116,7 @@
   - **Steps**:
     1. Create a to-do list within NotebookLM.
     2. Allow the AI to suggest a logical order for tasks based on project needs.
-  - **Expected Outcome**: A prioritized list that optimizes workflow and task allocation among group members.
+  - **Expected Outcome**: A prioritised list that optimises workflow and task allocation among group members.
 
 - **Integrate Code Cells for Real-Time Coding and Testing**
   - **Steps**:
@@ -126,11 +126,11 @@
 
 - **Generate Discussion Points for Review**
   - **Steps**:
-    1. Summarize recent group discussions or findings.
+    1. Summarise recent group discussions or findings.
     2. Generate key points and questions for group review sessions.
   - **Expected Outcome**: Structured group discussion points to keep everyone aligned on project progress.
 
-- **Track Recent Edits and Summarize Changes**
+- **Track Recent Edits and Summarise Changes**
   - **Steps**:
     1. Review recent edits made by team members.
     2. Request an AI-generated summary of recent changes.
